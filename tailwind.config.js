@@ -2,7 +2,11 @@
 module.exports = {
   content: ["./public/*.html"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        lato: "Lato", sans-serif;
+      }
+    },
   },
   plugins: [],
 }
