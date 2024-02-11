@@ -8,11 +8,13 @@ it is a great template for practicing css and flex skills
 ### Project was deployed using
 
 
-- [Netlify](https://www.netlify.com/)
+- [Vercel](https://www.vercel.com/)
 
 They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
 
 ### Live link below 👇
+
+
 
 ### Fonts Used
 
