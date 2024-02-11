@@ -6,7 +6,7 @@ module.exports = {
       fontFamily: {
         lato: "'Lato', sans-serif",
         playFair: "'Playfair', serif",
-      }
+      },
     },
   },
   plugins: [],

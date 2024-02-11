@@ -3,3 +3,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+    .btn {
+        @apply font-lato bg-[#4977ea] px-5 py-4 text-white rounded-lg
+      }
+}
