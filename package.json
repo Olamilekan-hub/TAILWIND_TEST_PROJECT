@@ -2,9 +2,8 @@
   "name": "tailwind_test_project",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "dev": "npx tailwindcss -i ./src/input.css -o ./public/output.css"
+    "build": "npx tailwindcss -i ./src/input.css -o ./public/output.css"
   },
   "keywords": [],
   "author": "Olamilekan",
